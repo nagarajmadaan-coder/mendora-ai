@@ -1,0 +1,35 @@
+# MENDORA — run the frontend and backend together.
+#
+#   1. cp docker.env.example docker.env      (then edit docker.env — at least MENDORA_JWT_SECRET)
+#   2. docker compose up --build -d
+#   3. open http://localhost:8080
+#
+# See docs/DOCKER.md for seeding demo data, logs, backups and stopping.
+
+services:
+  backend:
+    build: ./backend
+    env_file: docker.env
+    environment:
+      MENDORA_DATABASE_URL: sqlite:////data/mendora.db
+      MENDORA_UPLOAD_DIR: /data/uploads
+    volumes:
+      - mendora-data:/data
+    expose:
+      - "8000"        # reachable only by the frontend container, not from outside
+    restart: unless-stopped
+
+  frontend:
+    build:
+      context: .
+      args:
+        VITE_API_BASE_URL: ""   # same website: nginx forwards /api to the backend
+    ports:
+      - "${MENDORA_PORT:-8080}:80"
+    depends_on:
+      backend:
+        condition: service_healthy
+    restart: unless-stopped
+
+volumes:
+  mendora-data:       # the SQLite database — survives restarts and rebuilds

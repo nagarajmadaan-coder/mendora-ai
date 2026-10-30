@@ -1,0 +1,27 @@
+# Frontend
+node_modules
+dist
+*.log
+.DS_Store
+
+# Local configuration (keep .env.example, never commit real .env files)
+.env
+.env.local
+backend/.env
+backend/.env.*
+!backend/.env.example
+
+# Python backend
+backend/.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Local database (prototype data)
+backend/mendora.db
+backend/mendora.db-*
+backend/uploads/
+backend/backups/
+
+# Docker configuration with real values
+docker.env

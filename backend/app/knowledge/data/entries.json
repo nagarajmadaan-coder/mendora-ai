@@ -1,0 +1,988 @@
+{
+  "version": "2026-10-27.1",
+  "default_source": {
+    "type": "mendora_draft",
+    "verification_status": "unverified",
+    "note": "Written by the MENDORA development team from general home-maintenance knowledge. Not reviewed or certified by a licensed professional."
+  },
+  "entries": [
+    {
+      "id": "plb-slow-drain",
+      "trade": "plumbing",
+      "category": "Drains",
+      "title": "Slow-draining sink or basin",
+      "symptoms": [
+        "Sink or basin drains slowly",
+        "Water pools before draining",
+        "Gurgling sound from the drain"
+      ],
+      "keywords": [
+        "slow",
+        "drain",
+        "drains",
+        "draining",
+        "gurgle",
+        "gurgles",
+        "gurgling",
+        "sink",
+        "basin",
+        "pool",
+        "pools",
+        "blocked",
+        "block",
+        "clog",
+        "clogged",
+        "kitchen",
+        "bathroom"
+      ],
+      "clarifying_questions": [
+        "Is only one sink slow, or are other drains in the home slow too?",
+        "Did it start suddenly or get worse over time?"
+      ],
+      "possible_causes": [
+        {
+          "title": "Build-up in the trap (U-bend)",
+          "explanation": "Grease, food, soap or hair can collect in the curved pipe under the sink."
+        },
+        {
+          "title": "Blocked drain stopper or strainer",
+          "explanation": "Hair and debris often catch on the plug or strainer at the top of the drain."
+        },
+        {
+          "title": "Blockage further along the waste pipe",
+          "explanation": "If several drains are slow, the problem may be in a shared pipe."
+        }
+      ],
+      "next_steps": [
+        "Remove and clean the sink strainer or pop-up plug if it lifts out by hand.",
+        "Try a sink plunger, with a little water in the sink to make a seal.",
+        "If several drains are slow or water backs up into another fixture, stop and contact a plumber."
+      ],
+      "diy_level": "simple",
+      "professional_recommended": false,
+      "professional_reason": null,
+      "safety_restrictions": [
+        "Don't mix drain-cleaning chemicals, or use them together with a plunger — splashes can burn skin and eyes."
+      ],
+      "hazard_categories": [
+        "plumbing"
+      ]
+    },
+    {
+      "id": "plb-dripping-tap",
+      "trade": "plumbing",
+      "category": "Taps",
+      "title": "Dripping tap",
+      "symptoms": [
+        "Tap drips when fully closed",
+        "Water leaks from the spout",
+        "Handle feels loose or stiff"
+      ],
+      "keywords": [
+        "tap",
+        "taps",
+        "faucet",
+        "drip",
+        "drips",
+        "dripping",
+        "leak",
+        "leaks",
+        "leaking",
+        "closed",
+        "spout",
+        "handle",
+        "washer",
+        "constantly"
+      ],
+      "clarifying_questions": [
+        "Does the water drip from the spout or from around the handle?",
+        "Is it the hot tap, the cold tap, or a mixer?"
+      ],
+      "possible_causes": [
+        {
+          "title": "Worn washer or O-ring",
+          "explanation": "Rubber seals inside the tap wear out over time and stop sealing fully."
+        },
+        {
+          "title": "Worn cartridge (mixer taps)",
+          "explanation": "Single-lever taps use a cartridge that can wear or crack."
+        },
+        {
+          "title": "Damaged valve seat",
+          "explanation": "The surface the washer presses against can become rough."
+        }
+      ],
+      "next_steps": [
+        "Check whether the drip comes from the spout or the handle — this helps a plumber identify the part.",
+        "Place a bowl under the tap and note the tap type and brand if visible.",
+        "Replacing washers or cartridges needs the water supply isolated; if you're not confident doing that, contact a plumber."
+      ],
+      "diy_level": "simple",
+      "professional_recommended": false,
+      "professional_reason": null,
+      "safety_restrictions": [
+        "Hot taps can scald — let water cool and isolate the supply before anyone works on the tap."
+      ],
+      "hazard_categories": [
+        "plumbing"
+      ]
+    },
+    {
+      "id": "plb-running-toilet",
+      "trade": "plumbing",
+      "category": "Toilets",
+      "title": "Toilet keeps running after flushing",
+      "symptoms": [
+        "Water keeps running into the bowl",
+        "Cistern refills on its own",
+        "Hissing from the cistern"
+      ],
+      "keywords": [
+        "toilet",
+        "commode",
+        "wc",
+        "cistern",
+        "flush",
+        "flushing",
+        "running",
+        "runs",
+        "refill",
+        "refills",
+        "fill",
+        "keeps",
+        "float",
+        "flapper"
+      ],
+      "clarifying_questions": [
+        "Does the water stop if you gently lift the float?",
+        "Is water overflowing from the cistern or onto the floor?"
+      ],
+      "possible_causes": [
+        {
+          "title": "Worn flush valve seal (flapper)",
+          "explanation": "If the seal at the bottom of the cistern leaks, water trickles into the bowl."
+        },
+        {
+          "title": "Float set too high",
+          "explanation": "The fill valve keeps running if the float doesn't shut it off in time."
+        },
+        {
+          "title": "Faulty fill valve",
+          "explanation": "A worn valve may not close fully."
+        }
+      ],
+      "next_steps": [
+        "Lift the cistern lid and check whether the chain or flush mechanism is caught.",
+        "Watch whether water flows into the overflow pipe — that suggests the float level needs adjusting.",
+        "If water is spilling onto the floor, turn off the toilet's isolation valve if you can reach it, and contact a plumber."
+      ],
+      "diy_level": "simple",
+      "professional_recommended": false,
+      "professional_reason": null,
+      "safety_restrictions": [
+        "The cistern lid is heavy and breakable — put it down flat on a towel."
+      ],
+      "hazard_categories": [
+        "plumbing"
+      ]
+    },
+    {
+      "id": "plb-blocked-toilet",
+      "trade": "plumbing",
+      "category": "Toilets",
+      "title": "Blocked toilet",
+      "symptoms": [
+        "Toilet bowl fills up and drains slowly",
+        "Water level rises when flushing"
+      ],
+      "keywords": [
+        "toilet",
+        "commode",
+        "wc",
+        "blocked",
+        "block",
+        "clog",
+        "clogged",
+        "bowl",
+        "rises",
+        "overflow",
+        "drains",
+        "slowly",
+        "flush"
+      ],
+      "clarifying_questions": [
+        "Are other drains (shower, sink) also backing up?",
+        "Is sewage or dirty water coming out anywhere?"
+      ],
+      "possible_causes": [
+        {
+          "title": "Blockage in the toilet trap",
+          "explanation": "Too much paper or items that shouldn't be flushed can block the bend in the toilet."
+        },
+        {
+          "title": "Blockage in the main drain",
+          "explanation": "If other drains back up too, the shared drain may be blocked."
+        }
+      ],
+      "next_steps": [
+        "Don't flush again — it can make the bowl overflow.",
+        "Try a toilet (flange) plunger with steady, gentle pushes.",
+        "If other drains are backing up or sewage appears, stop and contact a plumber."
+      ],
+      "diy_level": "simple",
+      "professional_recommended": false,
+      "professional_reason": null,
+      "safety_restrictions": [
+        "Wear gloves, and wash hands well afterwards. Keep children away from dirty water."
+      ],
+      "hazard_categories": [
+        "plumbing"
+      ]
+    },
+    {
+      "id": "plb-low-pressure-tap",
+      "trade": "plumbing",
+      "category": "Water supply",
+      "title": "Low water pressure at one tap",
+      "symptoms": [
+        "Weak flow from one tap",
+        "Water sputters",
+        "Other taps are fine"
+      ],
+      "keywords": [
+        "low",
+        "pressure",
+        "weak",
+        "flow",
+        "trickle",
+        "sputter",
+        "sputters",
+        "tap",
+        "faucet",
+        "aerator",
+        "slow"
+      ],
+      "clarifying_questions": [
+        "Is the low pressure at one tap only, or throughout the home?",
+        "Is it hot water, cold water, or both?"
+      ],
+      "possible_causes": [
+        {
+          "title": "Blocked aerator",
+          "explanation": "The small mesh at the end of the spout can collect limescale and grit."
+        },
+        {
+          "title": "Partly closed isolation valve",
+          "explanation": "A valve on the pipe under the sink may not be fully open."
+        },
+        {
+          "title": "Supply issue",
+          "explanation": "If every tap is affected, the cause may be the main supply or a tank."
+        }
+      ],
+      "next_steps": [
+        "If the aerator unscrews by hand, clean the mesh and refit it.",
+        "Check whether other taps in the home are affected.",
+        "If the whole home has low pressure, check with neighbours or your water supplier before calling a plumber."
+      ],
+      "diy_level": "simple",
+      "professional_recommended": false,
+      "professional_reason": null,
+      "safety_restrictions": [],
+      "hazard_categories": [
+        "plumbing"
+      ]
+    },
+    {
+      "id": "plb-minor-leak-under-sink",
+      "trade": "plumbing",
+      "category": "Leaks",
+      "title": "Small drip under a sink",
+      "symptoms": [
+        "Small drip from pipes under the sink",
+        "Damp cupboard base",
+        "Water in a bowl under the trap"
+      ],
+      "keywords": [
+        "leak",
+        "leaks",
+        "leaking",
+        "drip",
+        "drips",
+        "dripping",
+        "under",
+        "sink",
+        "pipe",
+        "pipes",
+        "trap",
+        "joint",
+        "damp",
+        "cupboard",
+        "small"
+      ],
+      "clarifying_questions": [
+        "Is it a slow drip or a steady stream?",
+        "Is any water near sockets, plugs or appliances?"
+      ],
+      "possible_causes": [
+        {
+          "title": "Loose waste-pipe joint",
+          "explanation": "Plastic waste fittings can work loose over time."
+        },
+        {
+          "title": "Worn seal in the trap",
+          "explanation": "The rubber seal inside a trap joint may be worn or misaligned."
+        },
+        {
+          "title": "Leaking supply connection",
+          "explanation": "A drip from the flexible hoses or valves feeding the tap."
+        }
+      ],
+      "next_steps": [
+        "Place a bowl underneath and dry the pipes so you can see where the drip starts.",
+        "Check whether it drips only when the sink is draining (waste pipe) or all the time (supply pipe).",
+        "A drip from a supply hose or valve, or any steady flow, should be checked by a plumber."
+      ],
+      "diy_level": "simple",
+      "professional_recommended": false,
+      "professional_reason": null,
+      "safety_restrictions": [
+        "If water is near sockets or appliances, don't touch them — this becomes an electrical safety issue."
+      ],
+      "hazard_categories": [
+        "plumbing",
+        "electrical"
+      ]
+    },
+    {
+      "id": "plb-no-hot-water",
+      "trade": "plumbing",
+      "category": "Water heaters",
+      "title": "No hot water from the water heater",
+      "symptoms": [
+        "Water stays cold",
+        "Water heater or geyser doesn't heat",
+        "Hot water runs out quickly"
+      ],
+      "keywords": [
+        "hot",
+        "water",
+        "heater",
+        "geyser",
+        "boiler",
+        "cold",
+        "heat",
+        "heating",
+        "warm",
+        "shower",
+        "no"
+      ],
+      "clarifying_questions": [
+        "Is the water heater electric or gas?",
+        "Is its power switch or indicator light on?"
+      ],
+      "possible_causes": [
+        {
+          "title": "Heater switched off or its breaker tripped",
+          "explanation": "Electric heaters often have a separate switch or breaker."
+        },
+        {
+          "title": "Thermostat set too low",
+          "explanation": "The temperature setting may have been turned down."
+        },
+        {
+          "title": "Failed heating element or thermostat",
+          "explanation": "These parts wear out and need replacing by a professional."
+        }
+      ],
+      "next_steps": [
+        "Check that the heater's wall switch is on and its indicator light (if any) is lit.",
+        "Check whether its breaker has tripped. Reset a tripped breaker once only — if it trips again, stop and call an electrician.",
+        "Repairs inside a water heater need a qualified plumber or electrician. Gas heaters need a registered gas engineer."
+      ],
+      "diy_level": "none",
+      "professional_recommended": true,
+      "professional_reason": "Water heaters work with high temperatures, pressure and electricity or gas.",
+      "safety_restrictions": [
+        "Never open the water heater's cover or adjust its safety valves.",
+        "Gas water heaters: if you smell gas, leave the area and call the gas emergency line."
+      ],
+      "hazard_categories": [
+        "plumbing",
+        "electrical",
+        "gas"
+      ]
+    },
+    {
+      "id": "ele-bulb-not-working",
+      "trade": "electrical",
+      "category": "Lighting",
+      "title": "Light bulb not working",
+      "symptoms": [
+        "One light doesn't come on",
+        "Bulb flickered and went out"
+      ],
+      "keywords": [
+        "bulb",
+        "bulbs",
+        "light",
+        "lamp",
+        "lights",
+        "not",
+        "working",
+        "dead",
+        "out",
+        "blown",
+        "led",
+        "tube",
+        "replace",
+        "replacing",
+        "change",
+        "fused",
+        "fixture"
+      ],
+      "clarifying_questions": [
+        "Is it one light, or several lights at once?",
+        "Is the bulb holder or fitting cracked, scorched or loose?"
+      ],
+      "possible_causes": [
+        {
+          "title": "Blown bulb",
+          "explanation": "The most common cause when a single light stops working."
+        },
+        {
+          "title": "Loose bulb",
+          "explanation": "A bulb that isn't fully screwed or clipped in may not connect."
+        },
+        {
+          "title": "Fault in the fitting or circuit",
+          "explanation": "If a new bulb doesn't work, the fault is elsewhere and needs an electrician."
+        }
+      ],
+      "next_steps": [
+        "Switch the light off and let the bulb cool before touching it.",
+        "Replace the bulb with one of the same type, fitting and wattage.",
+        "If the new bulb doesn't work, or several lights are out, contact an electrician."
+      ],
+      "diy_level": "simple",
+      "professional_recommended": false,
+      "professional_reason": null,
+      "safety_restrictions": [
+        "Use a stable step stool, not a chair.",
+        "If the fitting is cracked, scorched or loose, leave it switched off and call an electrician."
+      ],
+      "hazard_categories": [
+        "electrical"
+      ]
+    },
+    {
+      "id": "ele-flickering-light",
+      "trade": "electrical",
+      "category": "Lighting",
+      "title": "Flickering light",
+      "symptoms": [
+        "Light flickers",
+        "Light dims and brightens"
+      ],
+      "keywords": [
+        "flicker",
+        "flickers",
+        "flickering",
+        "dim",
+        "dims",
+        "light",
+        "lights",
+        "bulb",
+        "lamp",
+        "blinking"
+      ],
+      "clarifying_questions": [
+        "Does one light flicker, or several lights in the home?",
+        "Does it flicker when a large appliance switches on?"
+      ],
+      "possible_causes": [
+        {
+          "title": "Loose or failing bulb",
+          "explanation": "A bulb nearing the end of its life, or not seated properly, can flicker."
+        },
+        {
+          "title": "Dimmer not compatible with the bulb",
+          "explanation": "Some LED bulbs flicker on dimmer switches."
+        },
+        {
+          "title": "Loose connection or circuit problem",
+          "explanation": "If several lights flicker, the cause may be in the wiring — this needs an electrician."
+        }
+      ],
+      "next_steps": [
+        "With the light switched off and cool, check the bulb is fitted firmly, or try a new bulb of the same type.",
+        "If the bulb is on a dimmer, check whether the bulb is marked as dimmable.",
+        "If several lights flicker, or you hear buzzing, contact an electrician."
+      ],
+      "diy_level": "simple",
+      "professional_recommended": false,
+      "professional_reason": null,
+      "safety_restrictions": [
+        "Buzzing, heat or a burning smell means stop and call an electrician."
+      ],
+      "hazard_categories": [
+        "electrical"
+      ]
+    },
+    {
+      "id": "ele-tripped-breaker",
+      "trade": "electrical",
+      "category": "Fuse box and breakers",
+      "title": "Breaker or trip switch tripped",
+      "symptoms": [
+        "Power went off in part of the home",
+        "A switch in the fuse box is down"
+      ],
+      "keywords": [
+        "breaker",
+        "trip",
+        "tripped",
+        "tripping",
+        "rcd",
+        "mcb",
+        "fuse",
+        "fusebox",
+        "power",
+        "off",
+        "outage",
+        "switch",
+        "circuit",
+        "reset",
+        "microwave",
+        "kettle",
+        "appliance",
+        "keeps"
+      ],
+      "clarifying_questions": [
+        "Does it trip again straight after resetting it?",
+        "Did it trip when a particular appliance was switched on?"
+      ],
+      "possible_causes": [
+        {
+          "title": "Overloaded circuit",
+          "explanation": "Too many high-power appliances on one circuit at the same time."
+        },
+        {
+          "title": "Faulty appliance",
+          "explanation": "An appliance with a fault can trip the safety switch."
+        },
+        {
+          "title": "Wiring fault",
+          "explanation": "If it keeps tripping with appliances unplugged, the wiring needs an electrician."
+        }
+      ],
+      "next_steps": [
+        "Unplug or switch off appliances on the affected circuit.",
+        "With dry hands, reset the tripped switch once.",
+        "If it trips again, leave it off and contact an electrician. Never hold or force a breaker on."
+      ],
+      "diy_level": "simple",
+      "professional_recommended": false,
+      "professional_reason": null,
+      "safety_restrictions": [
+        "Only touch the fuse box with dry hands, standing on a dry floor.",
+        "Never remove the fuse box cover."
+      ],
+      "hazard_categories": [
+        "electrical"
+      ]
+    },
+    {
+      "id": "ele-socket-not-working",
+      "trade": "electrical",
+      "category": "Sockets and switches",
+      "title": "Socket not working",
+      "symptoms": [
+        "Nothing works when plugged into one socket",
+        "Socket stopped working"
+      ],
+      "keywords": [
+        "socket",
+        "sockets",
+        "outlet",
+        "plug",
+        "point",
+        "power",
+        "dead",
+        "not",
+        "working",
+        "stopped"
+      ],
+      "clarifying_questions": [
+        "Do other sockets in the same room work?",
+        "Is the socket cracked, discoloured or warm?"
+      ],
+      "possible_causes": [
+        {
+          "title": "Tripped breaker or trip switch",
+          "explanation": "Check the fuse box for a switch that is down."
+        },
+        {
+          "title": "Faulty appliance or plug",
+          "explanation": "The appliance itself may be the problem."
+        },
+        {
+          "title": "Faulty socket or wiring",
+          "explanation": "Needs a qualified electrician to check and repair."
+        }
+      ],
+      "next_steps": [
+        "Plug in a different appliance you know works to test the socket.",
+        "Check the fuse box for a tripped switch.",
+        "If the socket still doesn't work, leave it unused and contact an electrician."
+      ],
+      "diy_level": "none",
+      "professional_recommended": true,
+      "professional_reason": "Repairs to sockets and their wiring must be done by a qualified electrician.",
+      "safety_restrictions": [
+        "Never open a socket.",
+        "A cracked, discoloured, warm or buzzing socket should not be used at all."
+      ],
+      "hazard_categories": [
+        "electrical"
+      ]
+    },
+    {
+      "id": "ele-light-switch",
+      "trade": "electrical",
+      "category": "Sockets and switches",
+      "title": "Light switch not working",
+      "symptoms": [
+        "Switch doesn't turn the light on",
+        "Switch feels loose"
+      ],
+      "keywords": [
+        "switch",
+        "light",
+        "switches",
+        "not",
+        "working",
+        "loose",
+        "stopped",
+        "click",
+        "doesn't"
+      ],
+      "clarifying_questions": [
+        "Does a new bulb work in that light?",
+        "Is the switch warm, cracked or making noise?"
+      ],
+      "possible_causes": [
+        {
+          "title": "Blown bulb",
+          "explanation": "Rule out the bulb first."
+        },
+        {
+          "title": "Worn switch",
+          "explanation": "Switches wear out mechanically over time."
+        },
+        {
+          "title": "Loose connection",
+          "explanation": "Needs an electrician — loose connections can overheat."
+        }
+      ],
+      "next_steps": [
+        "Try a new bulb of the same type in the light first.",
+        "Check the fuse box for a tripped switch.",
+        "If it still doesn't work, contact an electrician — replacing a switch involves live wiring."
+      ],
+      "diy_level": "none",
+      "professional_recommended": true,
+      "professional_reason": "Switch repairs involve mains wiring.",
+      "safety_restrictions": [
+        "Never take the switch off the wall.",
+        "Stop using a switch that is warm, crackling or scorched."
+      ],
+      "hazard_categories": [
+        "electrical"
+      ]
+    },
+    {
+      "id": "car-sticking-door",
+      "trade": "carpentry",
+      "category": "Doors",
+      "title": "Door sticks or rubs",
+      "symptoms": [
+        "Door is hard to close",
+        "Door rubs on the frame or floor",
+        "Door scrapes"
+      ],
+      "keywords": [
+        "door",
+        "doors",
+        "stick",
+        "sticks",
+        "sticking",
+        "stuck",
+        "rub",
+        "rubs",
+        "rubbing",
+        "scrape",
+        "scrapes",
+        "jam",
+        "jams",
+        "close",
+        "frame",
+        "swollen"
+      ],
+      "clarifying_questions": [
+        "Where does it rub — top, side or bottom?",
+        "Did it start in damp weather?"
+      ],
+      "possible_causes": [
+        {
+          "title": "Loose hinge screws",
+          "explanation": "A loose top hinge lets the door drop and rub."
+        },
+        {
+          "title": "Wood swelling from humidity",
+          "explanation": "Wooden doors can swell in damp weather."
+        },
+        {
+          "title": "Building movement",
+          "explanation": "If cracks appear around the frame, the cause may be structural — get it checked."
+        }
+      ],
+      "next_steps": [
+        "Check whether the hinge screws are loose and tighten them with a screwdriver.",
+        "Look for a shiny worn spot to see exactly where it rubs.",
+        "If the door rubs after the hinges are tight, a carpenter can plane or adjust it."
+      ],
+      "diy_level": "simple",
+      "professional_recommended": false,
+      "professional_reason": null,
+      "safety_restrictions": [
+        "Doors are heavy — don't take one off its hinges on your own."
+      ],
+      "hazard_categories": [
+        "carpentry",
+        "structural"
+      ]
+    },
+    {
+      "id": "car-loose-hinge",
+      "trade": "carpentry",
+      "category": "Doors and cabinets",
+      "title": "Loose hinge or sagging door",
+      "symptoms": [
+        "Hinge is loose",
+        "Door or cabinet door sags",
+        "Screws turn without tightening"
+      ],
+      "keywords": [
+        "hinge",
+        "hinges",
+        "loose",
+        "sag",
+        "sags",
+        "sagging",
+        "screw",
+        "screws",
+        "wobble",
+        "door",
+        "cabinet",
+        "cupboard",
+        "wardrobe",
+        "almirah"
+      ],
+      "clarifying_questions": [
+        "Do the screws tighten, or do they keep turning?",
+        "Is the wood around the hinge split?"
+      ],
+      "possible_causes": [
+        {
+          "title": "Screws worked loose",
+          "explanation": "Regular use loosens hinge screws over time."
+        },
+        {
+          "title": "Stripped screw holes",
+          "explanation": "If screws keep turning, the hole is worn and won't grip."
+        },
+        {
+          "title": "Damaged hinge",
+          "explanation": "A bent or cracked hinge needs replacing."
+        }
+      ],
+      "next_steps": [
+        "Tighten the hinge screws with the right size screwdriver.",
+        "If a screw keeps turning, a carpenter can fill the hole or fit a longer screw.",
+        "Replace a bent or cracked hinge with the same size and type."
+      ],
+      "diy_level": "simple",
+      "professional_recommended": false,
+      "professional_reason": null,
+      "safety_restrictions": [
+        "Support heavy doors while working on hinges."
+      ],
+      "hazard_categories": [
+        "carpentry"
+      ]
+    },
+    {
+      "id": "car-squeaky-hinge",
+      "trade": "carpentry",
+      "category": "Doors and cabinets",
+      "title": "Squeaky door hinge",
+      "symptoms": [
+        "Door squeaks or creaks when opened"
+      ],
+      "keywords": [
+        "squeak",
+        "squeaks",
+        "squeaky",
+        "creak",
+        "creaks",
+        "creaky",
+        "noise",
+        "hinge",
+        "door"
+      ],
+      "clarifying_questions": [
+        "Is the squeak from the hinge, or from the door rubbing?"
+      ],
+      "possible_causes": [
+        {
+          "title": "Dry hinge",
+          "explanation": "Hinges squeak when they lack lubrication."
+        },
+        {
+          "title": "Rust or dirt in the hinge",
+          "explanation": "Build-up inside the hinge causes friction."
+        }
+      ],
+      "next_steps": [
+        "Wipe the hinge clean.",
+        "Apply a small amount of household lubricant to the hinge, and open and close the door a few times.",
+        "Wipe away any excess so it doesn't drip onto the floor."
+      ],
+      "diy_level": "simple",
+      "professional_recommended": false,
+      "professional_reason": null,
+      "safety_restrictions": [],
+      "hazard_categories": [
+        "carpentry"
+      ]
+    },
+    {
+      "id": "car-sticking-drawer",
+      "trade": "carpentry",
+      "category": "Furniture",
+      "title": "Drawer sticks or won't close",
+      "symptoms": [
+        "Drawer is hard to open or close",
+        "Drawer comes off its runner"
+      ],
+      "keywords": [
+        "drawer",
+        "drawers",
+        "stick",
+        "sticks",
+        "sticking",
+        "stuck",
+        "runner",
+        "runners",
+        "slide",
+        "close",
+        "open",
+        "jam"
+      ],
+      "clarifying_questions": [
+        "Is the drawer wooden with wooden runners, or does it have metal slides?",
+        "Is something caught behind it?"
+      ],
+      "possible_causes": [
+        {
+          "title": "Item caught behind the drawer",
+          "explanation": "Something may have fallen behind or under it."
+        },
+        {
+          "title": "Worn or dry runners",
+          "explanation": "Wooden runners wear; metal slides can get dirty or bent."
+        },
+        {
+          "title": "Loose drawer front or runner screws",
+          "explanation": "Screws can work loose over time."
+        }
+      ],
+      "next_steps": [
+        "Empty the drawer, take it out if it lifts out easily, and check for anything caught.",
+        "Clean the runners, and tighten any loose runner screws.",
+        "Rub a little candle wax on wooden runners so they slide more easily."
+      ],
+      "diy_level": "simple",
+      "professional_recommended": false,
+      "professional_reason": null,
+      "safety_restrictions": [
+        "On tall chests of drawers, don't open several full drawers at once — the unit can tip."
+      ],
+      "hazard_categories": [
+        "carpentry"
+      ]
+    },
+    {
+      "id": "car-wobbly-chair-table",
+      "trade": "carpentry",
+      "category": "Furniture",
+      "title": "Wobbly chair or table",
+      "symptoms": [
+        "Chair or table rocks",
+        "Leg feels loose"
+      ],
+      "keywords": [
+        "wobbly",
+        "wobble",
+        "wobbles",
+        "rock",
+        "rocks",
+        "chair",
+        "chairs",
+        "table",
+        "stool",
+        "leg",
+        "legs",
+        "loose",
+        "uneven",
+        "shorter",
+        "short",
+        "steady",
+        "unsteady"
+      ],
+      "clarifying_questions": [
+        "Is a joint loose, or is one leg shorter or the floor uneven?",
+        "Is the wood cracked anywhere?"
+      ],
+      "possible_causes": [
+        {
+          "title": "Loose joint or screws",
+          "explanation": "Joints loosen with use."
+        },
+        {
+          "title": "Uneven leg or floor",
+          "explanation": "One leg may be slightly shorter, or the floor may be uneven."
+        },
+        {
+          "title": "Cracked leg or rail",
+          "explanation": "A crack weakens the furniture and needs repair."
+        }
+      ],
+      "next_steps": [
+        "Turn it over and tighten any loose screws or bolts.",
+        "Try it on a different spot of floor to see if the floor is uneven.",
+        "If wood is cracked, stop using it and ask a carpenter to repair it."
+      ],
+      "diy_level": "simple",
+      "professional_recommended": false,
+      "professional_reason": null,
+      "safety_restrictions": [
+        "Don't stand on a wobbly chair or stool."
+      ],
+      "hazard_categories": [
+        "carpentry"
+      ]
+    }
+  ]
+}
